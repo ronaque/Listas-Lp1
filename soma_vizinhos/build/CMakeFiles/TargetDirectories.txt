@@ -1,0 +1,4 @@
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/soma_vizinhos/build/CMakeFiles/program.dir
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/soma_vizinhos/build/CMakeFiles/verify.dir
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/soma_vizinhos/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/soma_vizinhos/build/CMakeFiles/ZERO_CHECK.dir

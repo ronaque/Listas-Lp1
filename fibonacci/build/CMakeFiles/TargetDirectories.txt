@@ -1,0 +1,5 @@
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/fibonacci/build/CMakeFiles/func.dir
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/fibonacci/build/CMakeFiles/run_tests.dir
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/fibonacci/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/fibonacci/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/fibonacci/build/tests/CMakeFiles/all_tests.dir

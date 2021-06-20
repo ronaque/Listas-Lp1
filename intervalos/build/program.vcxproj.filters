@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\isaqu\Documents\Escolaridade\UF\Bacharel em TI\LP1\Lista1\intervalos\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\isaqu\Documents\Escolaridade\UF\Bacharel em TI\LP1\Lista1\intervalos\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A22633E6-FF6A-36B5-B3B4-7EF096872385}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

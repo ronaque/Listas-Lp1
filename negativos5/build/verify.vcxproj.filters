@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\isaqu\Documents\Escolaridade\UF\Bacharel em TI\LP1\Lista1\negativos5\build\CMakeFiles\618ee3c6a1a2f5eb05c0b50895f4763e\verify.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\isaqu\Documents\Escolaridade\UF\Bacharel em TI\LP1\Lista1\negativos5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\isaqu\Documents\Escolaridade\UF\Bacharel em TI\LP1\Lista1\negativos5\build\CMakeFiles\verify" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2D056B78-A028-3C64-9282-581AE2C6DD84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

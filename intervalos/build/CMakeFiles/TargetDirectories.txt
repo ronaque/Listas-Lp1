@@ -1,0 +1,4 @@
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/intervalos/build/CMakeFiles/program.dir
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/intervalos/build/CMakeFiles/verify.dir
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/intervalos/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/isaqu/Documents/Escolaridade/UF/Bacharel em TI/LP1/Lista1/intervalos/build/CMakeFiles/ZERO_CHECK.dir
