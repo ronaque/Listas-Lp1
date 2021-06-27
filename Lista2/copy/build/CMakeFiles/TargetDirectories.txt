@@ -1,0 +1,3 @@
+C:/Users/isaqu/Documents/GitHub/Listas-Lp1/Lista2/copy/build/CMakeFiles/run_tests.dir
+C:/Users/isaqu/Documents/GitHub/Listas-Lp1/Lista2/copy/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/isaqu/Documents/GitHub/Listas-Lp1/Lista2/copy/build/CMakeFiles/ZERO_CHECK.dir
