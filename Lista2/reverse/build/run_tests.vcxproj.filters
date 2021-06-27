@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\isaqu\Documents\GitHub\Listas-Lp1\Lista2\test_manager\src\test_manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\isaqu\Documents\GitHub\Listas-Lp1\Lista2\reverse\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\isaqu\Documents\GitHub\Listas-Lp1\Lista2\reverse\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{99F3EC45-1647-39D7-9786-E919BCCC7525}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

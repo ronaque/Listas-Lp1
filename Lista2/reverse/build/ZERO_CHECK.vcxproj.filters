@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\isaqu\Documents\GitHub\Listas-Lp1\Lista2\reverse\build\CMakeFiles\023f64d60ac69e2cf6db71d1d80fd2d2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9781C999-8C58-392A-99BE-2C42D2E94144}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
