@@ -8,9 +8,10 @@ using std::distance;
 #include <algorithm>
 using std::sort;
 
-namespace graal {
+namespace graal
+{
 
-/*! 
+    /*! 
  * Exemplo de documentação seguindo o formato Doxygen
  *
  * @tparam Itr iterator para o range.
@@ -23,12 +24,29 @@ namespace graal {
  * @return Um std::pair contendo o menor e maior elemento, nesta ordem
  *
  */
-template <typename Itr, typename Compare >
-std::pair<Itr, Itr> minmax( Itr first, Itr last, Compare cmp )
-{
-    // TODO
-    return std::make_pair( first, first );
-}
+    template <typename Itr, typename Compare>
+    std::pair<Itr, Itr> minmax(Itr first, Itr last, Compare cmp)
+    {
+
+        int tam = last - first;
+        int menorValor = 100, maiorValor = 0;
+        Itr menor, maior;
+        for (int i = 0; i < tam; i++)
+        {
+            if (menorValor > *first)
+            {
+                menorValor = *first;
+                menor = first;
+            }
+            if (maiorValor <= *first)
+            {
+                maiorValor = *first;
+                maior = first;
+            }
+        }
+
+        return std::make_pair(menor, maior);
+    }
 
 }
 #endif
