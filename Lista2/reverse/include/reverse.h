@@ -8,16 +8,27 @@ using std::distance;
 #include <algorithm>
 using std::sort;
 
-namespace graal {
+namespace graal
+{
 
-/*! 
+    /*! 
  * TODO: documentação no estilo doxygen
  */
-template<class BidirIt>
-void reverse(BidirIt first, BidirIt last)
-{
-    // TODO
-}
+    template <class BidirIt>
+    void reverse(BidirIt first, BidirIt last)
+    {
+        // TODO
+        int tam = last - first;
+        BidirIt aux;
+        for (int i = 0; i < (tam / 2); i++)
+        {
+            *aux = *last;
+            *last = *first;
+            *first = *aux;
+            first++;
+            last--;
+        }
+    }
 
 }
 #endif
